@@ -1,2 +1,1 @@
-hello world is this working
-testing123
+Readme created to remember how to use git and git hub. 
